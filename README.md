@@ -12,3 +12,5 @@
  100 adet Organ oluştuğunda ise Organizmanin sistemlerine eklenmeye başladı Organizmayı yazdırma fonksiyonu çağırıldığında organların daha önceden hesaplamış olduğum denge karakteri ekrana yazdırıldı. 
 
 ![alt text](https://user-images.githubusercontent.com/4519214/211408994-f3a902b8-8e7d-456e-bd5f-b8d06e04c530.png)
+
+![alt text](https://user-images.githubusercontent.com/4519214/211409238-d6b2fa77-3621-4180-8eaa-cd1b15207bd4.png)
