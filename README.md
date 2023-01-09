@@ -10,3 +10,5 @@
  Kodda Organın oluşma esnasında AVL ağacına göre dengeli olup olmadığı kontrol edilerek organın özelliklerinde boşluk ya da # olarak tutuldu.
  
  100 adet Organ oluştuğunda ise Organizmanin sistemlerine eklenmeye başladı Organizmayı yazdırma fonksiyonu çağırıldığında organların daha önceden hesaplamış olduğum denge karakteri ekrana yazdırıldı. 
+
+ https://user-images.githubusercontent.com/4519214/211408994-f3a902b8-8e7d-456e-bd5f-b8d06e04c530.png

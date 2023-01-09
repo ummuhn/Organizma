@@ -19,7 +19,7 @@ int main()
     string mutasyonluSistemString;
     Okuma okuma;
     // Read from the text file
-    ifstream MyReadFile("doc/Veri.txt");
+    ifstream MyReadFile("doc/Veri2.txt");
     Organizma *organizma = new Organizma();
     Sistem *sistem = new Sistem();
     // Use a while loop together with the getline() function to read the file line by line
